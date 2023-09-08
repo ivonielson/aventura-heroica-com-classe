@@ -17,10 +17,10 @@ Há uma lista de heróis com atributos predefinidos, incluindo nomes, idades e t
 
 # 🧙‍♂️ Exemplo de Saída 🧙‍♀️
 
-O mago IvoShow, atacou usando magia
-O guerreiro IviNho, atacou usando espada
-O monge Ivão, atacou usando artes marciais
-O ninja Ivo, atacou usando shuriken
+🧙‍♂️ O mago IvoShow, atacou usando magia ✨
+⚔️ O guerreiro IviNho, atacou usando espada 🗡️
+🥋 O monge Ivão, atacou usando artes marciais 🥋
+🥷 O ninja Ivo, atacou usando shuriken 🥷
 
 # 🌟 Conceitos Demonstrados 🌟
 
