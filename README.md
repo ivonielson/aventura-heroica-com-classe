@@ -13,7 +13,8 @@ O método atacar() exibe o tipo de ataque do herói com base no seu tipo.
 
 # 🏹 Lista de Heróis 🏹
 
-Há uma lista de heróis com atributos predefinidos, incluindo nomes, idades e tipos. Cada herói é criado e ataca de acordo com suas características únicas.
+Há uma lista de heróis com atributos predefinidos, incluindo nomes, idades e tipos.
+Cada herói é criado e ataca de acordo com suas características únicas.
 
 # 🧙‍♂️ Exemplo de Saída 🧙‍♀️
 
@@ -24,7 +25,8 @@ Há uma lista de heróis com atributos predefinidos, incluindo nomes, idades e t
 
 # 🌟 Conceitos Demonstrados 🌟
 
-Classes e Objetos
-Estruturas de Controle (Switch)
-Looping (For...of)
+Classes e Objetos<br>
+Estruturas de Controle (Switch)<br>
+Looping (For)<br>
+
 Esse projeto proporciona uma emocionante experiência ao explorar o mundo dos heróis mágicos! 👏👏👏
